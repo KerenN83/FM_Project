@@ -150,4 +150,4 @@ DB292,Sky Airline,800,departure,London,scheduled,01/11/2020 23:10
 YY293,El Al,500,departure,Rome,scheduled,01/11/2020 23:15
 AK294,United,800,departure,Vienna,scheduled,01/11/2020 23:25
 NY297,Lufthansa,500,departure,Sofia,scheduled,01/11/2020 23:40
-AA000,Iberia,200,arrival,Rome,scheduled,01/11/2020 00:10
+AB000,Iberia,200,arrival,Rome,scheduled,01/11/2020 00:10
